@@ -1,0 +1,35 @@
+header {
+	background-color:black;
+	color:white;
+	text-align:center;
+	padding:5px;
+}
+body {
+	/* font-family: "lucida console"; */
+	font-size: 14px;
+	background-color:#A9A9A9;
+	height:auto;
+	margin:auto;
+}
+nav {
+	font-family: "lucida console";
+	line-height: 30px;
+	background-color:#A9A9A9;
+	height:300px;
+	width: 140px;
+	float:left;
+	padding:15px;
+}
+footer {
+	background-color:black;
+	color:white;
+	clear:both;
+	text-align:center;
+	padding:5px;
+}
+section {
+	font-family: "lucida console";
+	width:800px;
+	float:left;
+	padding:10px;
+}
